@@ -1,1 +1,1 @@
-# sikalabs-s3-go
+# sikalabs-go/sikalabs-s3-go
